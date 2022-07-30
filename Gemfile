@@ -33,6 +33,7 @@ group :development do
   gem "rack-mini-profiler", "~> 2.0"
   gem "standardrb", "~> 1.0", require: false
   gem "web-console", ">= 4.1.0"
+  gem 'solargraph'
 end
 
 group :test do
